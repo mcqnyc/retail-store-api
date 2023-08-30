@@ -6,3 +6,4 @@ data.db
 *.pyc
 .DS_Store
 app.py.orig
+scratch.txt
